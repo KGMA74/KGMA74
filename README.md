@@ -9,5 +9,5 @@ val me = Developer(
     name = "KAMBOU GOMBSON MODESTE ARMEL",
     role = "DevOps & Backend Engineer",
     focus = listOf("Scalable Architectures", "Secure Infra", "High-Performance Systems"),
-    loves = listOf("Automation", "Cloud-Native", "Afro-pop & Rap")
+    loves = listOf("Automation", "Cloud-Native Architecture", "Clean Code")
 )
