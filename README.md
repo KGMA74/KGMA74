@@ -23,5 +23,5 @@ val me = Developer(
     loves = listOf("Automation", "Cloud-Native Architecture", "Clean Code")
 )
 
-[![committers.top badge](https://user-badge.committers.top/burkina_faso/USERNAME.svg)](https://user-badge.committers.top/burkina_faso/KGMA74)
+[![committers.top badge](https://user-badge.committers.top/burkina_faso/KGMA74.svg)](https://user-badge.committers.top/burkina_faso/KGMA74)
 
