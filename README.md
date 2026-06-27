@@ -22,3 +22,6 @@ val me = Developer(
     focus = listOf("Scalable Architectures", "Secure Infra", "High-Performance Systems"),
     loves = listOf("Automation", "Cloud-Native Architecture", "Clean Code")
 )
+
+[![committers.top badge](https://user-badge.committers.top/burkina_faso/USERNAME.svg)](https://user-badge.committers.top/burkina_faso/KGMA74)
+
