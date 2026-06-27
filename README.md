@@ -14,7 +14,7 @@
 ---
 
 ## 👨‍💻 À propos de moi
-[![committers.top badge](https://user-badge.committers.top/burkina_faso/USERNAME.svg)](https://user-badge.committers.top/burkina_faso/USERNAME)
+
 ```kotlin
 val me = Developer(
     name = "KAMBOU GOMBSON MODESTE ARMEL",
