@@ -22,4 +22,6 @@ val me = Developer(
     focus = listOf("Scalable Architectures", "Secure Infra", "High-Performance Systems"),
     loves = listOf("Automation", "Cloud-Native Architecture", "Clean Code")
 )
+```
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/dockyard)](https://artifacthub.io/packages/search?repo=dockyard)
 
