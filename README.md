@@ -24,6 +24,8 @@ val me = Developer(
 )
 ```
 
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/dockyard)](https://artifacthub.io/packages/search?repo=dockyard)
+
 ---
 
 ## 🛠️ Tech Stack
@@ -56,6 +58,7 @@ val me = Developer(
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=flat-square&logo=elasticsearch&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=flat-square&logo=helm&logoColor=white)
 
 ---
 
