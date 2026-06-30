@@ -14,14 +14,17 @@
 
 ## 👨‍💻 À propos de moi
 
-```kotlin
-val me = Developer(
-    name = "KAMBOU GOMBSON MODESTE ARMEL",
-    role = "DevOps & Backend Engineer",
-    focus = listOf("Scalable Architectures", "Secure Infra", "High-Performance Systems"),
-    loves = listOf("Automation", "Cloud-Native", "Clean Code"),
-    interests = listOf("Machine Learning", "Deep Learning", "AI Systems")
-)
+```bash
+$ cat about.txt
+
+Armel. Backend & DevOps engineer, based in Burkina Faso.
+I build things that scale — microservices, distributed systems,
+and the infra that holds them together.
+
+Kotlin is home. Java when needed. Go when it makes sense.
+Lately spending more time on ML/DL — still learning, enjoying it.
+
+I care about clean code, automation, and not reinventing the wheel.
 ```
 
 [![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/dockyard)](https://artifacthub.io/packages/search?repo=dockyard)
@@ -65,22 +68,14 @@ val me = Developer(
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KGMA74&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KGMA74&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGMA74&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KGMA74&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kgma74&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kgma74&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgma74&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kgma74&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7f52ff&height=80&section=footer&theme=dark" width="100%" />
-</div>
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kgma74&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kgma74&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgma74&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kgma74&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
